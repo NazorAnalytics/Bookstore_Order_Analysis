@@ -8,7 +8,7 @@ By identifying key trends and patterns, this analysis can contribute to improved
 
 Features considered include authors of books, year of publication, book language, book size, period of order etc.<br>
 It employed MySQL and showcased the use of simple to complex queries to retrieve relevant information from data.<br>
-Outputs were structured in such a way as to serve the end users of the data, displaying most values in percentages for ease of comparison.<br>
+Outputs were structured in such a way as to serve the end users of the data, displaying most values in percentages and ranks for ease of comparison.<br>
 
 ### Findings
 
